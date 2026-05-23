@@ -1,0 +1,13 @@
+body {
+    background-color: #222; /* Makes the webpage dark so the game pops */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+canvas {
+    background-color: #70c5ce; /* This is that classic Flappy Bird sky-blue color! */
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5); /* Adds a cool shadow */
+}
